@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-... I'll add more things here once I've got some good ideas 😎
+... I'll add more things here once I've got some good ideas what to add 😎
 
 <!--
 **tklepzig/tklepzig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
