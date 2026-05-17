@@ -1,4 +1,4 @@
-### Hi! 👋 I'm Thomas
+# Hi! 👋 I'm Thomas
 
 Always curious and eager to learn new things 💡
 
