@@ -1,6 +1,6 @@
-### Welcome! 👋
+### Hi! 👋 I'm Thomas
 
-... I'll add more things here once I've got some good ideas what to add 😎
+Always curious and eager to learn new things 💡
 
 <!--
 **tklepzig/tklepzig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
